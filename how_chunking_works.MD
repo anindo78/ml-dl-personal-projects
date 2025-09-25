@@ -1,4 +1,4 @@
-Of course. Here is a detailed summary of the key points from the article on chunking strategies for Retrieval-Augmented Generation (RAG).
+Detailed summary of the key points from the article on chunking strategies for Retrieval-Augmented Generation (RAG).
 
 ### The Importance of Chunking in RAG
 
